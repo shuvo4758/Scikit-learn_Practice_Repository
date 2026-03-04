@@ -1,9 +1,8 @@
 # Scikit-learn_Practice_Repository
-Machine Learning Practice – Regression &amp; Evaluation Metrics
-
+Machine Learning Practice – Regression, Evaluation Metrics & PCA
 
 This repository contains Jupyter notebooks created while learning **basic machine learning concepts using Python and scikit-learn**.  
-The focus is on **regression models** and **model evaluation metrics** with simple, easy-to-understand examples.
+The focus is on **regression models**, **model evaluation metrics**, and **dimensionality reduction (PCA)** with simple, easy-to-understand examples.
 
 ---
 
@@ -39,3 +38,28 @@ This notebook focuses on **model evaluation metrics**, including:
 - Comparing actual vs predicted values
 
 ---
+
+### 3️⃣ `PCA.ipynb`
+This notebook covers **Principal Component Analysis (PCA)** for dimensionality reduction.
+
+It demonstrates:
+- The concept of reducing high-dimensional data into fewer components
+- Transforming features using PCA
+- Understanding variance explained by principal components
+- Visualizing reduced-dimensional data
+
+**Concepts used:**
+- Principal Component Analysis (PCA)
+- Feature transformation
+- Dimensionality reduction
+- Variance explanation
+
+---
+
+## ✅ Summary
+
+This repository demonstrates:
+- Building and training basic machine learning models
+- Evaluating model performance using standard metrics
+- Applying PCA for dimensionality reduction
+- Understanding core machine learning concepts through practical examples
